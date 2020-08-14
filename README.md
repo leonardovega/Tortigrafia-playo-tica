@@ -1,2 +1,2 @@
 # Tortigrafia-playo-tica
-Mapa digital que busca reproducir de manera critica una re-interpretación del territorio, los espacios de convivencia y sus dinámicas de convergencia de las minorías diversas en Costa Rica de los últimos 60 años.
+Digital map that seeks to reproduce in a critical way a re-interpretation of the territory, the spaces of coexistence and its dynamics of convergence of the diverse minorities in Costa Rica of the last 60 years.
