@@ -1,6 +1,5 @@
 import GoogleMapComponent from './../components/googleMap/googleMap'
 
-  console.log(process.env.MAPS_API_KEY)
 const Index = () => <>
   <h1>Tortigrafía Playo/tica</h1>
   <GoogleMapComponent isMarkerShown
